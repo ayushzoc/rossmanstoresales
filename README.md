@@ -6,9 +6,9 @@
 * Hyperparamter Tuning of XGBoost was performed to get the best parameters possible.
 
 ### Resources:
-**Python:** 3.9.16
-**Packages:** XGBoost, Numpy, Pandas, Matplotlib, Seaborn, Opendatasets, GraphViz, LightGBM, Scikit-learn, Plotly
-**Installing for webframe rqeuirements:** pip install -r requirements.txt
+**Python:** 3.9.16 <br>
+**Packages:** XGBoost, Numpy, Pandas, Matplotlib, Seaborn, Opendatasets, GraphViz, LightGBM, Scikit-learn, Plotly <br>
+**Installing for webframe rqeuirements:** pip install -r requirements.txt <br>
 **K-Fold Cross Validation Function:** https://machinelearningmastery.com/how-to-configure-k-fold-cross-validation/
 
 
@@ -19,7 +19,7 @@
 * Parsed competition distance data to maximum of the distance to not let model confuse that distance 0 means competition is near.
 
 ### EDA:
-Different techniques were used for data exploration. Few are outlined below: \
+Different techniques were used for data exploration. Few are outlined below: <br>
 * Correlation Heatmap on the whole merged dataframe.
 ![HEATMAP!](heatmap.png)
 
